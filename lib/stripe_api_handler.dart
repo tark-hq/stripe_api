@@ -10,7 +10,7 @@ import 'model/source.dart';
 import 'model/token.dart';
 import 'stripe_error.dart';
 
-const String API_VERSION = "2018-05-21";
+const String API_VERSION = "2018-10-31";
 
 enum RequestMethod { get, post, put, delete, option }
 
